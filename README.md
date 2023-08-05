@@ -55,8 +55,10 @@ $deletedPost = $api->deletePost(1);
 var_dump($deletedPost);
 ```
 ## Контакты
-Владимир Макаров
-Email: vladimirmakarof@outlook.com
-GitHub: [https://github.com/VladimirMakaro](https://github.com/VladimirMakarof)
+
+- Владимир Макаров
+- Email: vladimirmakarof@outlook.com 
+- GitHub: [https://github.com/VladimirMakarof](https://github.com/VladimirMakarof)
+  
 ## Лицензия
 Данный проект распространяется под лицензией MIT. Вы можете использовать, изменять и распространять его в соответствии с условиями лицензии.
