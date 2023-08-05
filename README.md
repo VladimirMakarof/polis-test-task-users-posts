@@ -13,7 +13,7 @@
 
 ## Установка
 
-1. Скачайте проект с GitHub: **[https://github.com/your-username/polis-test](https://github.com/VladimirMakarof/polis-test-task-users-posts.git)**.
+1. Скачайте проект с GitHub: **[https://github.com/VladimirMakarof/polis-test](https://github.com/VladimirMakarof/polis-test-task-users-posts.git)**.
 2. Запустите команду `composer install` для установки зависимостей, если требуется.
 
 ## Примеры использования
